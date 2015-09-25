@@ -1,4 +1,4 @@
-# Material Design for AngularJS Apps [![Build Status](https://travis-ci.org/angular/material.svg)](https://travis-ci.org/angular/material)
+# HTML APP template
 
 HTML APP template is a basic project for building static web pages or SPA applications.
 
